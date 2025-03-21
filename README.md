@@ -1,16 +1,16 @@
-# Sistema de Registro de Pessoas - Python + SQLite
+ # Sistema de Registro de Pessoas 📋
 
-Um sistema simples de registro de pessoas com:
-✅ Cadastro
-✅ Listagem
-✅ Busca
-✅ Edição
-✅ Remoção
+Projeto simples em Python com SQLite que permite:
 
-### 📌 Tecnologias
-- Python 3
-- SQLite (nativo)
+✅ Adicionar pessoas (geradas aleatoriamente)  
+✅ Listar todos os registros  
+✅ Buscar por nome  
+✅ Atualizar informações  
+✅ Deletar registros
 
-### 📦 Como rodar
-```bash
-python main.py
+### Como rodar:
+
+1. **Instalar dependências**:
+   ```bash
+   pip install -r requirements.txt
+
